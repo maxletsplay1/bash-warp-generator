@@ -1,4 +1,4 @@
-# Сгенерируйте конфиг Cloudflare WARP для <u>[AmneziaWG](https://github.com/amnezia-vpn/amnezia-client)</u>
+# Генерация конфига Cloudflare WARP для <u>[AmneziaVPN](https://github.com/amnezia-vpn/amnezia-client)</u>/<u>[AmneziaWG windows](https://github.com/amnezia-vpn/amneziawg-windows-client)</u>
 ## Способ 1
 1. Заходим сюда https://shell.cloud.google.com/
 2. Ставим галочку и идём дальше
@@ -9,8 +9,8 @@
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 ```
 5. Ждём, когда конфиг сгенерируется
-6. Копируем конфиг, либо скачиваем файлом по ссылке и импортируем в AmneziaWG!👍
-## Способ 2
+6. Копируем конфиг, либо скачиваем файлом по ссылке и импортируем в AmneziaWG/VPN!👍
+## Способ 2 <u>[видео](https://www.youtube.com/watch?v=DvEJXVWw7RA)</u>
 1. Заходим сюда https://github.com/codespaces (регистрация обязательна)
 2. Выбираем Blank
 ![image](https://i.ibb.co/37YWTZp/2024-10-09-150245.png)
@@ -20,4 +20,4 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 ```
 5. Ждём, когда конфиг сгенерируется
-6. Копируем конфиг, либо скачиваем файлом по ссылке и импортируем в AmneziaWG!👍
+6. Копируем конфиг, либо скачиваем файлом по ссылке и импортируем в AmneziaWG/VPN!👍
